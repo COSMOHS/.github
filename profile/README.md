@@ -8,4 +8,4 @@ In the interest of transparency, we have include codes from our research group's
 Please go to our [site](www.cosmohs.se/) or email the PI, Christina Carlander, MD, PhD: [christina.carlander@ki.se](mailto:christina.carlander@ki.se)
 
 
-COSMOHS is a research study led from Karolinska Institutet. This is not an official Karolinska Institutet website.
+*COSMOHS is a research study led from Karolinska Institutet.*
