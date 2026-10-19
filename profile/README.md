@@ -5,7 +5,7 @@ COSMOHS is a nationwide Swedish cohort examining the health, comorbidity and hea
 In the interest of transparency, we have include codes from our research group's published works. 
 
 ### Additional Questions?
-Please go to our [site](www.cosmohs.se/) or email the PI, Christina Carlander, MD, PhD:[christina.carlander@ki.se](mailto:christina.carlander@ki.se)
+Please go to our [site](www.cosmohs.se/) or email the PI, Christina Carlander, MD, PhD: [christina.carlander@ki.se](mailto:christina.carlander@ki.se)
 
 
 COSMOHS is a research study led from Karolinska Institutet. This is not an official Karolinska Institutet website.
